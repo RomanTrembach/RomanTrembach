@@ -1,5 +1,5 @@
 ### Hi there, I'm Roman - aka [RomanTrembach]
-
+<!--
 ### Connect with me:
 
 [<img align="left" alt="RomanTrembach" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
@@ -20,4 +20,5 @@
 [youtube]: https://www.google.com/
 [twitter]: https://www.google.com/
 [linkedin]: https://www.google.com/
-[instagram]: https://www.google.com/
+[instagram]: https://www.google.com/ 
+-->
