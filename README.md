@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @RomanTrembach
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there, I'm Roman - aka [RomanTrembach]
 
-<!---
-RomanTrembach/RomanTrembach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Connect with me:
+
+[<img align="left" alt="RomanTrembach" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
+[<img align="left" alt="RomanTrembach" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>][youtube]
+[<img align="left" alt="RomanTrembach" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
+[<img align="left" alt="RomanTrembach" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
+[<img align="left" alt="RomanTrembach" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
+
+<br />
+
+### Languages and Tools:
+
+
+<br />
+<br />
+
+[website]: https://www.google.com/
+[youtube]: https://www.google.com/
+[twitter]: https://www.google.com/
+[linkedin]: https://www.google.com/
+[instagram]: https://www.google.com/
